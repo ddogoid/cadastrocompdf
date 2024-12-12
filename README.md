@@ -15,7 +15,7 @@ Projeto em desenvolvido usando dicionários e lista e a biblioteca ReportLab par
 ## Autores
 
 - Desenvolvido por [@ddogoid](https://github.com/ddogoid)
-- 
+  
 ## Feedback
 
 Se você tiver algum feedback, por favor nos deixe saber por meio de ercodiogo10@gmail.com
