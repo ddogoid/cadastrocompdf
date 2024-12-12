@@ -1,4 +1,5 @@
-                                                                                                                                          PROJETO EM PYTHON
+                                                                                                                                          
+PROJETO PYTHON
 
 Projeto em desenvolvido usando dicionários e lista e a biblioteca ReportLab parar gerar arquivos PDFS. O intuito desse projeto é fazer um sistema bem básico para cadastar uma quantidade de itens que fica ao seu critério e no final gerar um arquivo PDF com todos os itens cadastrados.
 
